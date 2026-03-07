@@ -1,7 +1,3 @@
-
-***
-
-```markdown
 # CLAUDE
 
 This repository defines an agentic development environment for software projects.  
